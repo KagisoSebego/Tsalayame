@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "307354213095",
+    "firebase_url": "https://tsalayame-14269.firebaseio.com",
+    "project_id": "tsalayame-14269",
+    "storage_bucket": "tsalayame-14269.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307354213095:android:1fa18c440d729045a5e042",
+        "android_client_info": {
+          "package_name": "com.ntebogangtech.tsalayame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307354213095-c8tim06nlq5d34kcev7jqlteh5p94bq7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ntebogangtech.tsalayame",
+            "certificate_hash": "8a28cc6b2fcb6c9bbe222626749539809cc0ea38"
+          }
+        },
+        {
+          "client_id": "307354213095-39u15vks1et3hr31rsejt91ma2qtrj75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTaE7OZNZFw-a_MT_cbD2Rq_Ga9a0OiJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307354213095-39u15vks1et3hr31rsejt91ma2qtrj75.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
